@@ -1,0 +1,42 @@
+#space{
+	width:800px;
+	height:600px;
+	border-radius: 20px;
+	position: fixed;
+}
+div{
+	width:800px;
+	height: auto;
+	margin:0 auto;
+}
+body{
+	background-image:url("http://img14.deviantart.net/040d/i/2011/022/e/e/stock_gradient_yellow_red_by_einstud-d37s8s9.jpg");
+}
+nav ul li img{
+	width:32px;
+	height:28px;
+	float:left;
+}
+nav ul li .img{
+	width:123px;
+	height: 50px;
+	float:none;
+	border-radius: 8px;
+}
+nav ul li{
+	clear:both;
+	list-style:none;
+	width:200px;
+	height:60px;
+	padding: 6px;
+}
+nav{
+	position: absolute;
+	background-repeat: no-repeat;
+	width:281px;
+	margin: 28px;
+	border-radius: 20px;
+}
+nav ul li:hover{
+	border:2px dashed #00ff80;
+}
